@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cal_background">#B7D3B5</color>
+    <color name="cal_button_background">#6B9D4A</color>
+    <color name="cal_button_stroke">#4C6A4B</color>
+    <color name="operator">#3B5A3D</color>
+    <color name="clear">#012C03</color>
+</resources>
